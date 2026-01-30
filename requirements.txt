@@ -1,0 +1,25 @@
+# Data Science
+pandas==2.1.4
+numpy==1.26.2
+scikit-learn==1.3.2
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Database
+pymongo==4.6.1
+motor==3.3.2
+dnspython==2.4.2
+
+# API (on installera plus tard mais on les liste déjà)
+fastapi==0.108.0
+uvicorn[standard]==0.25.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# Jupyter (pour les notebooks)
+# jupyter==1.0.0
+# ipykernel==6.27.1
+
+# Utilities
+python-dotenv==1.0.0
+joblib==1.3.2
