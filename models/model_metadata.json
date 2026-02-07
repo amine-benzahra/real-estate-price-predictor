@@ -1,0 +1,28 @@
+{
+  "model_name": "Gradient Boosting",
+  "model_type": "GradientBoostingRegressor",
+  "training_date": "2026-02-07T00:58:28.535799",
+  "metrics": {
+    "test_r2": 0.8249346655177459,
+    "test_mae": 0.3202631125698849,
+    "test_rmse": 0.4789647023364999
+  },
+  "training_samples": 16512,
+  "test_samples": 4128,
+  "features": [
+    "MedInc",
+    "HouseAge",
+    "AveRooms",
+    "AveBedrms",
+    "Population",
+    "AveOccup",
+    "Latitude",
+    "Longitude",
+    "BedroomRatio",
+    "RoomsPerPerson",
+    "PopulationDensity",
+    "IncomeAge",
+    "DistanceToSF"
+  ],
+  "n_features": 13
+}
