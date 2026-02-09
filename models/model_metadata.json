@@ -1,7 +1,7 @@
 {
   "model_name": "Gradient Boosting",
   "model_type": "GradientBoostingRegressor",
-  "training_date": "2026-02-07T00:58:28.535799",
+  "training_date": "2026-02-09T00:47:10.257561",
   "metrics": {
     "test_r2": 0.8249346655177459,
     "test_mae": 0.3202631125698849,
